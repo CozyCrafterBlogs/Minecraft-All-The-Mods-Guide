@@ -1,4 +1,3 @@
-# Minecraft All The Mods Guide
 # ATM10 Guide
 
 APRIL 5, 2025
