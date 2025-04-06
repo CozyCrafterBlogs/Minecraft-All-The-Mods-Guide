@@ -13,9 +13,7 @@ If you’ve noticed the lack of guides for All The Mods, you’re not alone, but
 
 [Iron’s Gems ‘n Jewelry:](https://www.curseforge.com/minecraft/mc-mods/irons-jewelry) Jewelry items can be crafted from a pattern at the Jewelcrafting Station block. Some patterns are learned by the player by default, while others need to be unlocked by looting or trading for Artisan Scrolls. Jewelry can help increase stats.
 
-[Silent Gear:](https://www.curseforge.com/minecraft/mc-mods/silent-gear)
-
-This mod focuses on tools, weapons, and armor (collectively called gear). Recipes are modular, down to each piece used in crafting. Possible combinations for each gear type are practically unlimited.
+[Silent Gear:](https://www.curseforge.com/minecraft/mc-mods/silent-gear) This mod focuses on tools, weapons, and armor (collectively called gear). Recipes are modular, down to each piece used in crafting. Possible combinations for each gear type are practically unlimited.
 
 ### Automation/Technology:
 
